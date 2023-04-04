@@ -110,3 +110,18 @@ ul li span:hover
     background:#edeef0 ;
     background-position: center;
 }
+@media (max-width:650px)
+    {
+        input
+        {
+            padding:5px;
+            font-size: 12px;
+        }
+        button
+        {
+            padding: 14px 30px ;
+            font-size: 14px;
+            border-radius: 20px; 
+        }
+    }
+            
